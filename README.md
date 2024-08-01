@@ -57,9 +57,10 @@ If you don't have the physical components, you can simulate this project using [
 ## Simulation Images
 
 ### Circuit Setup in Tinkercad
-![Tinkercad Circuit Setup](https://github.com/reham-ali102/Arduino-LED-Blinking-Project/blob/main/switch-LED.PNG)
+![Tinkercad Code Editor](https://github.com/reham-ali102/Arduino-LED-Blinking-Project/blob/main/LED.PNG)
 
 ### Code Editor in Tinkercad
-![Tinkercad Code Editor](https://github.com/reham-ali102/Arduino-LED-Blinking-Project/blob/main/LED.PNG)
+![Tinkercad Circuit Setup](https://github.com/reham-ali102/Arduino-LED-Blinking-Project/blob/main/switch-LED.PNG)
+
 
 
